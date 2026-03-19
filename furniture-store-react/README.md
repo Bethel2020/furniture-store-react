@@ -1,16 +1,37 @@
-# React + Vite
+# Modern Furniture Store - React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce furniture store built with React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🛍️ **Product Catalog** - Browse through our curated collection of modern furniture
+- 🔍 **Advanced Filtering** - Filter products by category, material, room, and price range
+- 🛒 **Shopping Cart** - Add/remove items with localStorage persistence
+- 👀 **Quick View** - Preview product details without leaving the page
+- 📱 **Fully Responsive** - Seamless experience on all devices
+- ✨ **Smooth Animations** - Beautiful transitions with Framer Motion
+- 🎨 **Modern UI** - Clean, minimalist design with Tailwind CSS
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** - UI library
+- **Tailwind CSS** - Styling
+- **Framer Motion** - Animations
+- **React Router** - Navigation
+- **Headless UI** - Accessible components
+- **Heroicons** - Icons
+- **React Hot Toast** - Notifications
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/furniture-store-react.git
+cd furniture-store-react
